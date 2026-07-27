@@ -1,0 +1,13 @@
+Solar Forecast Performance
+----------------------------
+MAE  : 0.0099
+RMSE : 0.0147
+MAPE : 11298606.97%
+R2   : 0.9969
+
+Wind Forecast Performance
+----------------------------
+MAE  : 0.0114
+RMSE : 0.0152
+MAPE : 124549.95%
+R2   : 0.9911

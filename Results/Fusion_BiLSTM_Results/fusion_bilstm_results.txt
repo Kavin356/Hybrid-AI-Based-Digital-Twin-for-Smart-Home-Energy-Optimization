@@ -1,0 +1,9 @@
+Fusion BiLSTM Performance
+============================================================
+
+Normal BiLSTM Weight : 0.35000000000000003
+PSO-BiLSTM Weight    : 0.6499999999999999
+
+        Model Target      MAE     RMSE       MAPE       R2
+Fusion-BiLSTM  Solar 0.008396 0.013179 291.955837 0.997499
+Fusion-BiLSTM   Wind 0.011583 0.014987  14.927335 0.991302

@@ -1,0 +1,5 @@
+Parameter,Value
+First BiLSTM Units,120.0
+Second BiLSTM Units,48.0
+Dropout,0.10300405928397469
+Best Validation Loss,0.0004743976460304111

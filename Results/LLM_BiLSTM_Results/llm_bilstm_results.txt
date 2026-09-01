@@ -1,0 +1,11 @@
+LLM-Assisted BiLSTM Results
+============================================================
+
+Selected Configuration:
+First BiLSTM Units: 128
+Second BiLSTM Units: 64
+Dropout: 0.2
+
+     Model Target      MAE     RMSE       MAPE       R2
+LLM-BiLSTM  Solar 0.008786 0.013138 416.019740 0.997515
+LLM-BiLSTM   Wind 0.013032 0.016592  14.509588 0.989340

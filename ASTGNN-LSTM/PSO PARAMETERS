@@ -1,0 +1,8 @@
+==============================
+BEST PSO PARAMETERS
+==============================
+Learning Rate : 0.0013101477680056198
+Graph Hidden  : 64
+LSTM Hidden   : 192
+Dropout       : 0.32948398421007463
+Validation Loss: 0.2451542554603469
